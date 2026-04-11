@@ -24,6 +24,7 @@ I am a **Software Engineer with 1+ year of hands-on backend experience**, specia
 ### 🔹 Databases
 - MySQL
 - MongoDB
+- Redis
 
 ### 🔹 Frontend (Working Knowledge)
 - JavaScript, React.js
