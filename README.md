@@ -17,7 +17,7 @@ I am a **Software Engineer with 1+ year of hands-on backend experience**, specia
 - Clean, modular, production-ready architecture
 
 ### 🔹 Programming & Frameworks
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, JavaScript
 - **Frameworks:** FastAPI, Django, Flask
 - **ORM & DB Tools:** SQLAlchemy
 
