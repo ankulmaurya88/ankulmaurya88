@@ -67,7 +67,7 @@ I am a **Software Engineer with 1+ year of hands-on backend experience**, specia
 ## 💼 Experience
 
 ### ‭Associate Software Engineer — Adrasti.com  
-**02/2025 - Present | Bangalore**
+**02/2025 - 2/2026 | Bangalore**
 
 - Contributed to the backend development of an **ADAS-based infotainment platform**, designing and maintaining **Python-based REST APIs** for Music, GPS, and Map services.
 - Built **modular and scalable backend services** to manage media playback workflows, real-time location updates, and navigation data processing.
