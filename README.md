@@ -58,12 +58,6 @@ I am a **Software Engineer with 1+ year of hands-on backend experience**, specia
 
 ---
 
-## 🧩 Problem Solving
-- Solved **250+ Data Structures & Algorithms problems** on GeeksforGeeks and HackerRank
-- Strong foundation in logic, optimization, and backend-oriented problem solving
-
----
-
 ## 🎯 What I’m Looking For
 - Backend Engineer / Software Engineer roles
 - Python Developer positions
