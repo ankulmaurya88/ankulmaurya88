@@ -42,28 +42,7 @@ I am a **Software Engineer with 1+ year of hands-on backend experience**, specia
 
 ---
 
-## 🚀 Projects
 
-### 📌 YouTube Comment Extractor
-**Tech Stack:** Django, YouTube Data API v3, Pandas, NumPy, HTML/CSS
-
-- Built a Django-based web application to extract and process comments from public YouTube videos.
-- Integrated YouTube Data API v3 to fetch comment metadata (text, author, timestamp, likes).
-- Implemented backend workflows to clean, transform, and export data in **CSV and JSON** formats.
-- Used **Pandas and NumPy** for data preprocessing and batch export.
-- Added structured logging for API responses and processing steps to improve debugging and monitoring.
-
-### 📌 Web Scraping System
-**Tech Stack:** Python, Flask, BeautifulSoup, Selenium, HTML/CSS
-
-- Designed and implemented a **full-stack web scraping system** to extract and process structured data from entire websites.
-- Built a **modular Flask-based backend** with dedicated endpoints for scraping, validation, and file downloads.
-- Developed a **responsive frontend interface** to initiate scraping jobs and download results.
-- Automated file generation with **unique output folders per session**, ensuring stateless and clean execution.
-- Enabled multi-format data export including **DOCX, CSV, and TXT**.
-- Architected the system with **loosely coupled, extensible components**, allowing easy support for new scraping targets and output formats.
-
----
 
 ## 💼 Experience
 
