@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ankul Maurya</h1>
 
 
-## Software Engineer |  Python Developer | Full Stack (Backend-focused)
+## Full Stack (Backend-focused) |  Python Developer | Software Engineer
 
-I am a **Software Engineer with 1+ year of hands-on backend experience**, specializing in **Python-based web development**. I design and build **secure, scalable, and production-ready REST APIs** using **FastAPI, Django, and Flask**, with strong fundamentals in databases, API security, and asynchronous programming.
+I am a **Software Engineer with 1+ year of hands-on backend experience**, specializing in **Python-based web development**. I design and build **secure, scalable, and production-ready REST APIs** using **Django, and Flask**, with strong fundamentals in databases, API security, and asynchronous programming.
 
 ---
 
@@ -18,7 +18,7 @@ I am a **Software Engineer with 1+ year of hands-on backend experience**, specia
 
 ### 🔹 Programming & Frameworks
 - **Languages:** Python, SQL, JavaScript
-- **Frameworks:** FastAPI, Django, Flask
+- **Frameworks:**  Django, Flask
 - **ORM & DB Tools:** SQLAlchemy
 
 ### 🔹 Databases
