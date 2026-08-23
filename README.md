@@ -55,27 +55,6 @@ Current Features
 
 ---
 
-### 💳 DigitalFlow
-
-A digital payment platform inspired by Paytm.
-
-Current Features
-
-- Authentication
-- Wallet
-- Bank Account
-- Money Transfer
-- QR Payments
-- Transaction History
-- Beneficiary Management
-- Notifications
-- Reports
-- Docker
-- Deployment
-- CI/CD
-
----
-
 ## 🐧 Linux • DevOps Journey
 
 Alongside application development, I'm strengthening my engineering fundamentals by learning and practicing every day.
