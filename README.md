@@ -102,6 +102,12 @@ Every day I'm improving:
 
 ---
 
+## Generative AI: 
+-  LLMs, RAG, Prompt Engineering, Embeddings, Vector Search
+## Machine Learning: 
+- Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering, Recommendation Systems
+
+---
 ## Backend
 
 - Django
@@ -109,32 +115,23 @@ Every day I'm improving:
 - REST APIs
 
 ---
-
 ## Frontend
 
-- React
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
-
+- React JavaScript Bootstrap CSS3 HTML5
 ---
 
 ## Database
 
 - MySQL
 - MongoDB
-- Redis
+
 
 ---
 
 ## Linux & DevOps
 
-- Linux
-- Docker
-- Git
-- GitHub
-- GitHub Actions
+- Linux Docker Docker Compose
+- Git GitHub Actions
 - AWS (Learning)
 
 ---
@@ -187,8 +184,6 @@ Worked on an ADAS-based infotainment platform where I:
 # 🎯 2026 Goals
 
 ✅ Build ProConnect (LinkedIn-inspired Platform)
-
-✅ Build DigitalFlow (Paytm-inspired Platform)
 
 🔄 Build 5 supporting production-ready projects
 
