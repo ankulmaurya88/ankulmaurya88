@@ -102,17 +102,16 @@ Every day I'm improving:
 ---
 ## Backend
 
-- Django Flask
+- Django , Django rest framework, Flask
 - Node.js Express
-- REST APIs
+- REST APIs 
 
 ---
 ## Frontend
 - React JavaScript Bootstrap CSS3 HTML5
 ---
 ## Database
-- MySQL
-- MongoDB
+- MySQL, MongoDB,Vector database
 ---
 ## Linux & DevOps
 
