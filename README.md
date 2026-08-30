@@ -56,24 +56,16 @@ Current Features
 ---
 
 ## 🐧 Linux • DevOps Journey
-
 Alongside application development, I'm strengthening my engineering fundamentals by learning and practicing every day.
-
 Current Learning
-
 - Linux Administration
-- Shell Scripting
-- Git
-- GitHub
+- Git GitHub Actions
 - Docker
-- GitHub Actions
 - AWS
 - CI/CD
 - Deployment
 - Nginx
-
 My goal is to become a developer who understands both development and deployment.
-
 ---
 
 ## 🎤 Communication Journey
@@ -110,24 +102,18 @@ Every day I'm improving:
 ---
 ## Backend
 
-- Django
-- Flask
+- Django Flask
+- Node.js Express
 - REST APIs
 
 ---
 ## Frontend
-
 - React JavaScript Bootstrap CSS3 HTML5
 ---
-
 ## Database
-
 - MySQL
 - MongoDB
-
-
 ---
-
 ## Linux & DevOps
 
 - Linux Docker Docker Compose
@@ -135,12 +121,10 @@ Every day I'm improving:
 - AWS (Learning)
 
 ---
-
 ## Tools
 
 - Postman
-- Selenium
-- BeautifulSoup
+- cursor
 
 ---
 
@@ -171,9 +155,8 @@ Worked on an ADAS-based infotainment platform where I:
 
 - Production System Design
 - Linux Administration
-- Docker
-- GitHub Actions
-- AWS
+- AWS Docker GitHub Actions
+- Gen AI
 - Full Stack Development
 - Data Structures & Algorithms
 - Software Architecture
@@ -181,44 +164,6 @@ Worked on an ADAS-based infotainment platform where I:
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Build ProConnect (LinkedIn-inspired Platform)
-
-🔄 Build 5 supporting production-ready projects
-
-🐧 Master Linux Administration
-
-🐳 Become confident with Docker
-
-☁️ Learn AWS
-
-🚀 Build production-ready Full Stack applications
-
-📚 Practice DSA consistently
-
-🎤 Become a confident technical communicator
-
-✍️ Share my learning journey every week on GitHub & LinkedIn
-
----
-
-# 📈 GitHub Activity
-
-Here you'll find:
-
-- 🚀 Production-Ready Projects
-- 💻 Full Stack Development
-- 🐍 Python
-- ⚛️ React
-- 🐧 Linux Notes
-- 🐳 Docker
-- ☁️ AWS Journey
-- 📚 DSA Practice
-- 📝 Technical Notes
-- 🧠 System Design
-- 🔬 Experiments
-- 📖 Learning in Public
 
 ---
 
